@@ -1,0 +1,15 @@
+{
+  "name": "pp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Tuan Tran",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.0.4",
+    "puppeteer": "^13.2.0"
+  }
+}
